@@ -1,0 +1,5 @@
+root: /blog
+baseurl: http://www.yinlang.org
+permalink: /:year/:title
+pygments: true
+date_format: "ordinal"
