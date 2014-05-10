@@ -1,5 +1,8 @@
 root: /blog
 baseurl: http://www.yinlang.org
+githuburl: https://github.com/yinwang0/yin
+googlegroup: https://groups.google.com/forum/#!forum/yin-lang
+authorblog: http://www.yinwang.org
 permalink: /:year/:title
 pygments: true
 date_format: "ordinal"
